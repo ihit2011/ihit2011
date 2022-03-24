@@ -1,1 +1,1 @@
-<h1>👋 Hi, I’m Ihit Dey<h1>
+<h1>👋 Hi, I’m Ihit Dey, <b>the dev</b><h1>
